@@ -4,7 +4,8 @@
     <a class="text-blue-700" href="https://tailwindcss.com/docs/display#grid"><code class="font-mono">grid</code></a>
     et
     <a class="text-blue-700" href="https://tailwindcss.com/docs/grid-template-columns"><code class="font-mono">grid-cols-xxx</code></a> pour
-    obtenir 3 colonnes égales
+    obtenir 3 colonnes égales, les consignes sur les largeurs respectives de chaques colonnes seront faites en partie 2. Ici, juste les
+    faire égales.
   </p>
   <hr />
 
