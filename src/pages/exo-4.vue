@@ -1,10 +1,12 @@
 
 <template>
   <p class="bg-yellow-200 bg-opacity-50 p-1">
-    <strong>Travail :</strong> Liser la partie "Design responsive sans media queries" du
+    Liser la partie "Design responsive sans media queries" du
     <a href="https://la-cascade.io/css-grid-comment-fonctionne-minmax/">guide sur "minmax"</a>. Pour automatiquement disposer les images en
     une grille d'un nombre variable de colonnes.<br />
-    P.S. : <code>grid-auto-flow</code> pour ne pas avoir de trous quand on agrendi un écureuil.
+    P.S. : <code>grid-auto-flow</code> pour ne pas avoir de trous quand on agrendi un écureuil. <strong>Travail :</strong> Appliquez cela au
+    rendu du site d'agence immobiliére (le rendu pour jeudi). Les fiches de maisons doivent se mettre automatiquement sur plusieurs colonnes
+    (comme les écureuils).
   </p>
   <hr />
 
